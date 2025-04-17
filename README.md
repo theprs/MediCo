@@ -79,7 +79,14 @@ Built with the **MERN stack**, MediCo brings speed, simplicity, and security to 
 ---
 
 ## 💰 Payment Integration
+
 - **Stripe**
 - **Razorpay**
+
+---
+
+## 🌐 Live Demo
+
+> 🟢 **Frontend :** [Live Site](https://medi-co-front.vercel.app/)
 
 ---
